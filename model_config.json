@@ -1,0 +1,90 @@
+{
+  "split": {
+    "train_years": "2013-2019",
+    "test_years": "2020-2021",
+    "train_size": 9254,
+    "test_size": 2511
+  },
+  "regression": {
+    "features": [
+      "homes_sold",
+      "inventory",
+      "median_dom",
+      "off_market_in_two_weeks",
+      "avg_sale_to_list",
+      "sold_above_list",
+      "median_sale_price_mom",
+      "median_sale_price_yoy",
+      "homes_sold_mom",
+      "homes_sold_yoy",
+      "inventory_mom",
+      "inventory_yoy",
+      "median_dom_mom",
+      "median_dom_yoy",
+      "year",
+      "state_NC",
+      "covid_era",
+      "Q_1",
+      "Q_2",
+      "Q_3",
+      "Q_4"
+    ],
+    "target": "log_price",
+    "target_original": "median_sale_price",
+    "scaled_features": [
+      "homes_sold",
+      "inventory",
+      "median_dom",
+      "off_market_in_two_weeks",
+      "avg_sale_to_list",
+      "sold_above_list",
+      "median_sale_price_mom",
+      "median_sale_price_yoy",
+      "homes_sold_mom",
+      "homes_sold_yoy",
+      "inventory_mom",
+      "inventory_yoy",
+      "median_dom_mom",
+      "median_dom_yoy"
+    ]
+  },
+  "classification": {
+    "features": [
+      "homes_sold",
+      "inventory",
+      "median_dom",
+      "off_market_in_two_weeks",
+      "avg_sale_to_list",
+      "sold_above_list",
+      "median_sale_price_mom",
+      "median_sale_price_yoy",
+      "homes_sold_yoy",
+      "inventory_yoy",
+      "median_dom_yoy",
+      "year",
+      "state_NC",
+      "Q_1",
+      "Q_2",
+      "Q_3",
+      "Q_4"
+    ],
+    "target": "market_phase_encoded",
+    "classes": {
+      "COLD": 0,
+      "STABLE": 1,
+      "HOT": 2
+    },
+    "class_weights": {
+      "0": 0.6862439747868001,
+      "1": 1.1382533825338252,
+      "2": 1.50544981291687
+    }
+  },
+  "lstm": {
+    "file": "lstm_timeseries.csv",
+    "sequence_length": 4,
+    "target": "median_sale_price",
+    "num_zips": 113,
+    "note": "Data is UNSCALED - scale within LSTM pipeline"
+  }
+}

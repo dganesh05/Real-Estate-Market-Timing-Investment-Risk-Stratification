@@ -1,0 +1,22 @@
+[project]
+name = "real-estate-market-timing-investment-risk-stratification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=6.0.0",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "nixtla>=0.7.1",
+    "numba>=0.62.1",
+    "polars>=1.35.2",
+    "pyyaml>=6.0.3",
+    "rapids>=0.0.1",
+    "requests>=2.32.5",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+    "varname>=0.15.0",
+]
