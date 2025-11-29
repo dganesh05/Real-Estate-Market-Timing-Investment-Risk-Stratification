@@ -80,8 +80,8 @@
       "2": 1.50544981291687
     }
   },
-  "lstm": {
-    "file": "lstm_timeseries.csv",
+  "ts": {
+    "file": "tsa_timeseries.csv",
     "sequence_length": 4,
     "target": "median_sale_price",
     "num_zips": 113,
