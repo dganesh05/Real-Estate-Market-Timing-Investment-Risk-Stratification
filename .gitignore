@@ -205,4 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-/data
+data/county_market_tracker.tsv000
+data/neighborhood_market_tracker.tsv000
+data/state_market_tracker.tsv000
+data/us_national_market_tracker.tsv000
+data/zip_code_market_tracker.tsv000
