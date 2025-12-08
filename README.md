@@ -471,12 +471,12 @@ Add project structure here
 
 ## 👥 Team
 
-- Efren Antonio - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/eantonio3/)  [GitHub](https://github.com/eantonio3)
-- Hoang Bui - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/minh-hoang-bui-539458304/)  [GitHub](https://github.com/Thuvii)
-- Divya Ganesh - [Email](mailto:divya.ganesh05@outlook.com) - [LinkedIn](https://www.linkedin.com/in/divyaganesh05/)  [GitHub](https://github.com/dganesh05)
-- Ryan Jacobs - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/ryan-jacobs-08027024a/)  [GitHub](https://github.com/RJUNCC)
-- Kyle Lakovidis - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/kyle-iakovidis/)  [GitHub](https://github.com/ItsBreathingjet)
-- Heidy Marquez - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/heidymarquez/)  [GitHub](https://github.com/heidyjas)
+- Efren Antonio - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/eantonio3/) - [GitHub](https://github.com/eantonio3)
+- Hoang Bui - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/minh-hoang-bui-539458304/) - [GitHub](https://github.com/Thuvii)
+- Divya Ganesh - [Email](mailto:divya.ganesh05@outlook.com) - [LinkedIn](https://www.linkedin.com/in/divyaganesh05/) - [GitHub](https://github.com/dganesh05)
+- Ryan Jacobs - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/ryan-jacobs-08027024a/) - [GitHub](https://github.com/RJUNCC)
+- Kyle Lakovidis - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/kyle-iakovidis/) - [GitHub](https://github.com/ItsBreathingjet)
+- Heidy Marquez - [Email](mailto:) - [LinkedIn](https://www.linkedin.com/in/heidymarquez/) - [GitHub](https://github.com/heidyjas)
 
 ---
 
