@@ -7,6 +7,8 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-red)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-yellow)](https://scikit-learn.org/)
 
+Check out a high-level overview of our work through this poster: [Data Mining and Visual Analytics Poster Presentation - Dec 02, 2025](https://github.com/dganesh05/Real-Estate-Market-Timing-Investment-Risk-Stratification/blob/main/Data%20Mining%20and%20Visual%20Analytics%20Poster%20Presentation%20-%20Dec%2002%2C%202025.png)
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
