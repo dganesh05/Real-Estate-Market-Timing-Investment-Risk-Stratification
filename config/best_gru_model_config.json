@@ -1,0 +1,14 @@
+{
+  "model_type": "GRU",
+  "input_size": 1,
+  "hidden_size": 64,
+  "num_layers": 2,
+  "dropout": 0.4,
+  "weight_decay": 1e-05,
+  "lookback": 12,
+  "test_r2": 0.9952,
+  "test_rmse": 42.18,
+  "mape": 0.09,
+  "loss_ratio": 1.38,
+  "best_epoch": 80
+}
